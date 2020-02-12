@@ -46,6 +46,7 @@ latex.out/
 # l3build
 build/
 *-ctan.zip
+*-ctan.curlopt
 
 ## Auxiliary and intermediate files from other packages:
 # algorithms
