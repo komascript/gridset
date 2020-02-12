@@ -1,0 +1,29 @@
+\input regression-test.tex
+\documentclass[twocolumn]{article}
+\usepackage{gridset}
+\usepackage{blindtext}
+\begin{document}
+\START
+\TEST{horizontal and vertical alignment in twocolumn mode}{%
+  \showoutput
+  \blindtext
+  \[
+    f(x)=x^{\frac{1}{x}}
+  \]
+  \vskipnextgrid
+  More text.\blindtext[2]
+
+  \blindtext
+  \[
+    f(x)=x^{\frac{1}{x}}
+  \]
+  \vskipnextgrid
+  More text. \blindtext
+  \newpage
+}
+\END
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

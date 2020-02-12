@@ -1,0 +1,5151 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+============================================================
+TEST 1: horizontal and vertical alignment in twocolumn mode
+============================================================
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line ....
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line ....
+Package gridset Info: hmode \vskip393216sp on input line ....
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x469.0, direction TLT
+.\glue 16.0
+.\vbox(617.0+0.0)x469.0, direction TLT
+..\vbox(12.0+0.0)x469.0, glue set 12.0fil, direction TLT
+...\glue 0.0 plus 1.0fil
+...\hbox(0.0+0.0)x469.0, direction TLT
+..\glue 25.0
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x469.0, direction TLT
+...\hbox(550.0+0.0)x469.0, glue set 5.0fil, direction TLT
+....\hbox(550.0+0.0)x229.5, direction TLT
+.....\vbox(550.0+0.0)x229.5, glue set 1.0, direction TLT
+......\write-{}
+......\glue(\topskip) 3.06
+......\hbox(6.94+1.94)x229.5, glue set 0.07207, direction TLT
+.......\localpar
+........\localinterlinepenalty=0
+........\localbrokenpenalty=0
+........\localleftbox=null
+........\localrightbox=null
+.......\hbox(0.0+0.0)x10.0, direction TLT
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 250
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.10912, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 E
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.66385, direction TLT
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 h
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+1.94)x229.5, glue set 0.14415, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set - 0.97676, direction TLT
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 g
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 h
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.24414, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 V
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 v
+.......\kern-0.56 (font)
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.0376, direction TLT
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 U
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 t
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.08441, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set - 0.23051, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 S
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.0006, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 o
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.90309, direction TLT
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+0.11)x229.5, glue set 0.49422, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 4.95
+......\hbox(6.94+1.94)x229.5, glue set 0.89313, direction TLT
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.66696, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.43385, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 5.58
+......\hbox(4.48+1.94)x229.5, glue set 212.52fil, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\penalty 10000
+.......\glue(\parfillskip) 0.0 plus 1.0fil
+.......\glue(\rightskip) 0.0
+......\penalty 10000
+......\glue(\abovedisplayshortskip) 0.0 plus 3.0
+......\glue(\baselineskip) 0.02155
+......\hbox(10.03845+2.5)x45.37218, shifted 92.06392, direction TLT
+.......\OML/cmm/m/it/10 f
+.......\kern1.0764 (italic)
+.......\OT1/cmr/m/n/10 (
+.......\OML/cmm/m/it/10 x
+.......\OT1/cmr/m/n/10 )
+.......\glue(\thickmuskip) 2.77771 plus 2.77771
+.......\OT1/cmr/m/n/10 =
+.......\glue(\thickmuskip) 2.77771 plus 2.77771
+.......\OML/cmm/m/it/10 x
+.......\hbox(5.90953+2.4095)x6.85835, shifted -4.12892, direction TLT
+........\hbox(0.0+0.0)x1.2, shifted -1.75, direction TLT
+........\vbox(5.90953+2.4095)x3.95836, direction TLT
+.........\hbox(3.22221+0.0)x3.95836, glue set 0.27777fil, direction TLT
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+..........\OT1/cmr/m/n/5 1
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\kern0.73732 (font)
+.........\rule(0.39998+0.0)x*
+.........\kern1.80673 (font)
+.........\hbox(2.15277+0.0)x3.95836, direction TLT
+..........\OML/cmm/m/it/5 x
+........\hbox(0.0+0.0)x1.2, shifted -1.75, direction TLT
+......\penalty 0
+......\glue(\belowdisplayshortskip) 6.0 plus 3.0 minus 3.0
+......\glue(\baselineskip) 2.56
+......\hbox(6.94+1.94)x229.5, glue set 0.1278, direction TLT
+.......\localpar
+........\localinterlinepenalty=0
+........\localbrokenpenalty=0
+........\localleftbox=null
+........\localrightbox=null
+.......\savepos
+.......\write1{\protect \newpos {vp!1}{1}{46515936}{786432}{\number \gridset@la
+stxpos \ETC.}
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 x
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.26006, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 E
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.38972, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 h
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+1.94)x229.5, glue set 0.79735, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.3868, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.97581, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 h
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 V
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 v
+.......\kern-0.56 (font)
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.03632, direction TLT
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 U
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 t
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set - 0.33649, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.65637, direction TLT
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 2.89
+......\hbox(7.05+1.94)x229.5, glue set 0.41862, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 S
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 o
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.55055, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+0.11)x229.5, glue set 1.03604, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 4.95
+......\hbox(6.94+1.94)x229.5, glue set 1.0243, direction TLT
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.49588, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.0995, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.03976, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set - 0.2652, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 E
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.17017, direction TLT
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 h
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+1.94)x229.5, glue set - 0.0382, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.43083, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+2.06)x229.5, glue set 0.50676, direction TLT
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 g
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 h
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 V
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 v
+.......\kern-0.56 (font)
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.31013, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 U
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.83484, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 t
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.41861, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 2.89
+......\hbox(7.05+1.94)x229.5, glue set 0.21185, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 S
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 o
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.1152, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 i
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+0.11)x229.5, glue set 0.325, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 4.95
+......\hbox(6.94+1.94)x229.5, glue set - 0.84766, direction TLT
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue -1.94
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\glue 0.0 plus 1.0fil
+....\rule(*+*)x0.0
+....\glue 0.0 plus 1.0fil
+....\hbox(550.0+0.0)x229.5, direction TLT
+.....\vbox(550.0+0.0)x229.5, glue set 108.0fil, direction TLT
+......\glue(\topskip) 3.06
+......\hbox(6.94+2.06)x229.5, glue set 0.49588, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.0995, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 5.58
+......\hbox(4.48+1.94)x229.5, glue set 146.87999fil, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\penalty 10000
+.......\glue(\parfillskip) 0.0 plus 1.0fil
+.......\glue(\rightskip) 0.0
+......\glue(\parskip) 0.0 plus 1.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.07207, direction TLT
+.......\localpar
+........\localinterlinepenalty=0
+........\localbrokenpenalty=0
+........\localleftbox=null
+........\localrightbox=null
+.......\hbox(0.0+0.0)x10.0, direction TLT
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 250
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.10912, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 E
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.66385, direction TLT
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 h
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+1.94)x229.5, glue set 0.14415, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set - 0.97676, direction TLT
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 g
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 h
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.24414, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 V
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 v
+.......\kern-0.56 (font)
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.0376, direction TLT
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 U
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 t
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.08441, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set - 0.23051, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 S
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.0006, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 o
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.90309, direction TLT
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+0.11)x229.5, glue set 0.49422, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 4.95
+......\hbox(6.94+1.94)x229.5, glue set 0.89313, direction TLT
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.66696, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.43385, direction TLT
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 5.58
+......\hbox(4.48+1.94)x229.5, glue set 212.52fil, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\penalty 10000
+.......\glue(\parfillskip) 0.0 plus 1.0fil
+.......\glue(\rightskip) 0.0
+......\penalty 10000
+......\glue(\abovedisplayshortskip) 0.0 plus 3.0
+......\glue(\baselineskip) 0.02155
+......\hbox(10.03845+2.5)x45.37218, shifted 92.06392, direction TLT
+.......\OML/cmm/m/it/10 f
+.......\kern1.0764 (italic)
+.......\OT1/cmr/m/n/10 (
+.......\OML/cmm/m/it/10 x
+.......\OT1/cmr/m/n/10 )
+.......\glue(\thickmuskip) 2.77771 plus 2.77771
+.......\OT1/cmr/m/n/10 =
+.......\glue(\thickmuskip) 2.77771 plus 2.77771
+.......\OML/cmm/m/it/10 x
+.......\hbox(5.90953+2.4095)x6.85835, shifted -4.12892, direction TLT
+........\hbox(0.0+0.0)x1.2, shifted -1.75, direction TLT
+........\vbox(5.90953+2.4095)x3.95836, direction TLT
+.........\hbox(3.22221+0.0)x3.95836, glue set 0.27777fil, direction TLT
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+..........\OT1/cmr/m/n/5 1
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\kern0.73732 (font)
+.........\rule(0.39998+0.0)x*
+.........\kern1.80673 (font)
+.........\hbox(2.15277+0.0)x3.95836, direction TLT
+..........\OML/cmm/m/it/5 x
+........\hbox(0.0+0.0)x1.2, shifted -1.75, direction TLT
+......\penalty 0
+......\glue(\belowdisplayshortskip) 6.0 plus 3.0 minus 3.0
+......\glue(\baselineskip) 9.5
+......\hbox(0.0+0.0)x229.5, glue set 229.5fil, direction TLT
+.......\localpar
+........\localinterlinepenalty=0
+........\localbrokenpenalty=0
+........\localleftbox=null
+........\localrightbox=null
+.......\savepos
+.......\write1{\protect \newpos {vp!2}{1}{46515936}{786432}{\number \gridset@la
+stxpos \ETC.}
+.......\penalty 10000
+.......\glue(\parfillskip) 0.0 plus 1.0fil
+.......\glue(\rightskip) 0.0
+......\glue -6.0
+......\glue(\parskip) 0.0
+......\glue(\baselineskip) 5.06
+......\hbox(6.94+1.94)x229.5, glue set - 0.45682, direction TLT
+.......\localpar
+........\localinterlinepenalty=0
+........\localbrokenpenalty=0
+........\localleftbox=null
+........\localrightbox=null
+.......\hbox(0.0+0.0)x10.0, direction TLT
+.......\glue -10.0
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 x
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.26006, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 E
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set 0.38972, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 h
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+1.94)x229.5, glue set 0.79735, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.3868, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.97581, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 h
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 V
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 v
+.......\kern-0.56 (font)
+.......\TU/lmr/m/n/10 a
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 m
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set 0.03632, direction TLT
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 v
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 U
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 t
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+1.94)x229.5, glue set - 0.33649, direction TLT
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 L
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 o
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 ,
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.01
+......\hbox(7.05+2.06)x229.5, glue set 0.65637, direction TLT
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 D
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 f
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 2.89
+......\hbox(7.05+1.94)x229.5, glue set 0.41862, direction TLT
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 S
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 o
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+........= \kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.55055, direction TLT
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 i
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 d
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+0.11)x229.5, glue set 1.03604, direction TLT
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 b
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 -
+.......\discretionary (penalty 50)
+.......\glue(\rightskip) 0.0
+......\penalty 100
+......\glue(\baselineskip) 4.95
+......\hbox(6.94+1.94)x229.5, glue set 1.0243, direction TLT
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 b
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 P
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 e
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 n
+.......\kern-0.28 (font)
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 l
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.12
+......\hbox(6.94+2.06)x229.5, glue set 0.49588, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 i
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 g
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 s
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 ,
+.......\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 M
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 u
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 a
+.......\glue(\rightskip) 0.0
+......\glue(\baselineskip) 3.0
+......\hbox(6.94+1.94)x229.5, glue set - 0.0995, direction TLT
+.......\TU/lmr/m/n/10 l
+.......\TU/lmr/m/n/10 o
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 t
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 p
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\TU/lmr/m/n/10 .
+.......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.......\TU/lmr/m/n/10 N
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 c
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 q
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 n
+.......\TU/lmr/m/n/10 a
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 d
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 t
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 p
+.......\TU/lmr/m/n/10 i
+.......\TU/lmr/m/n/10 s
+.......\glue(\rightskip) 0.0
+......\penalty 150
+......\glue(\baselineskip) 5.58
+......\hbox(4.48+1.94)x229.5, glue set 150.20999fil, direction TLT
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 c
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 c
+.......\TU/lmr/m/n/10 u
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 a
+.......\TU/lmr/m/n/10 n
+.......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.......\TU/lmr/m/n/10 s
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 m
+.......\discretionary (penalty 50)
+........< \TU/lmr/m/n/10 -
+.......\TU/lmr/m/n/10 p
+.......\kern0.28 (font)
+.......\TU/lmr/m/n/10 e
+.......\TU/lmr/m/n/10 r
+.......\TU/lmr/m/n/10 .
+.......\penalty 10000
+.......\glue(\parfillskip) 0.0 plus 1.0fil
+.......\glue(\rightskip) 0.0
+......\glue -1.94
+......\glue 0.0 plus 1.0fil
+......\glue 0.0
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue(\baselineskip) 23.34
+..\hbox(6.66+0.0)x469.0, glue set 232.0fil, direction TLT
+...\glue 0.0 plus 1.0fil
+...\TU/lmr/m/n/10 1
+...\glue 0.0 plus 1.0fil
+============================================================
