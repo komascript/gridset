@@ -8,6 +8,12 @@ module = "gridset"
 
 unpackfiles = {"gridset.dtx"}
 
+demofiles   = {"*example.tex"}
+
+-- Testing
+
+checkruns = 2
+
 -- CTAN information
 
 ctanpkg = "gridset"
