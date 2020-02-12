@@ -32,9 +32,31 @@ The package is part of [TeX Live](https://tug.org/texlive) (and therefore
 also [MacTeX](https://tug.org/mactex)) and [MiKTeX](http://miktex.org). Users
 should use the packages provided by their TeX distribution.
 
-However, manual extraction can be used to try out the developer version.
+------------------------------------------------------------------------------
 
-To extract the package use:
+For a semi-manual installation you can first create a local clone
+if the repository:
+
+```bash
+git clone https://github.com/komascript/gridset.git
+```
+
+Then enter the directory created while cloning the repository:
+
+```bash
+cd gridset
+```
+
+Last, but not least use `l3build` to install it locally:
+
+```bash
+l3build install
+```
+
+------------------------------------------------------------------------------
+
+To do a completely manual installation, download `gridset.dtx`.  Then extract
+it using:
 
 ```bash
 tex gridset.dtx
@@ -48,3 +70,8 @@ mkindex gridset
 pdflatex gridset.dtx
 pdflatex gridset.dtx
 ```
+
+Now, you can either install it in the proper directory or copy `gridset.sty`
+to your document directory.
+
+------------------------------------------------------------------------------
