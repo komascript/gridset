@@ -6,7 +6,7 @@ An experimental LaTeX package for semi-manual grid (a.k.a. in-register) setting
 
 LaTeX package `gridset`  
 Copyright (c) 2008—2020 Markus Kohm  
-Release: 2017-06-05 v0.2
+Release: 2017-06-05 v0.2  
 License: LPPL 1.3c (see LICENSE.md)  
 CTAN Location: https://ctan.org/pkg/gridset
 
