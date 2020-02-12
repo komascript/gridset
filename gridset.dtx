@@ -1,4 +1,3 @@
-% \CheckSum{479}
 % \iffalse meta-comment
 %
 % gridset.dtx
@@ -36,7 +35,7 @@
 %<*dtx|package|example>
 %<package>\ProvidesPackage{gridset}
 %<example>\ProvidesFile{gridsetexample.tex}
-                 [2017-06-05 v0.2 grid - a.k.a. in-register - setting]
+                 [2020-02-12 v0.3 grid - a.k.a. in-register - setting]
 %</dtx|package|example>
 %<*dtx>
     \documentclass{ltxdoc}
@@ -57,9 +56,6 @@
 %<ins>\def\batchfile{gridset.ins}
   \input docstrip.tex
 
-  \ifToplevel{%
-    \let\ifalpha\iffalse
-  }
   \keepsilent
   \askforoverwritefalse
   \usedir{tex/latex/gridset}
@@ -85,11 +81,9 @@ about the files the work consists of.
     \Msg{* gridset}
     \Msg{* =======}
     \Msg{*}
-    \ifalpha% ALPHA
-      \Msg{* THIS IS AN ALPHA VERSION!}
-      \Msg{* DON'T USE IT ONLY TEST IT!}
-      \Msg{*}
-    \fi
+    \Msg{* THIS IS AN ALPHA VERSION!}
+    \Msg{* DON'T USE IT ONLY TEST IT!}
+    \Msg{*}
     \Msg{* To finish the installation run}
     \Msg{* \space\space latex gridset.dtx}
     \Msg{* or}
@@ -103,21 +97,19 @@ about the files the work consists of.
     \Msg{* \space\space kpsewhich -var-value=TEXMFLOCAL}
     \Msg{*}
     \Msg{*********************************************************************}
-%<*!ins>
-    \csname fi\endcsname\csname fi\endcsname\endinput
-%</!ins>
   }
 
 %</ins>
 %<*dtx>
 \fi
+\csname fi\endcsname
 \csname batchendinput\endcsname
 %</dtx>
 % \fi ^^A meta-comment
 %
-% \title{Semi-Manual Grid Setting Using \textsf{gridset}\iftrue^^A ALPHA
+% \title{Semi-Manual Grid Setting Using \textsf{gridset}%
 %   \footnote{This is an alpha version! Don't use it! Only test it! There's no
-%     support and everything may change!}\fi
+%     support and everything may change!}%
 % }
 % \author{Markus Kohm}
 % \date{\filedate~\fileversion}
@@ -222,17 +214,17 @@ about the files the work consists of.
 % \fi ^^A meta-comment
 %
 % \begin{macro}{gridset@luaorpdf}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % \begin{macro}{\gridset@pageheight}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % \begin{macro}{\gridset@pagewidth}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % \begin{macro}{\gridset@savepos}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % \begin{macro}{\gridset@lastxpos}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % \begin{macro}{\gridset@lastypos}
-%   \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{new internal because of Lua\TeX~0.85}
 % We need some locals because Lua\TeX{} changed the names of several
 % primitives inherited from PDF\TeX.
 %    \begin{macrocode}
@@ -268,14 +260,14 @@ about the files the work consists of.
 % \end{macro}
 %
 % \begin{macro}{\gridbase}
-%   \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}^^A
+% \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}
 % \begin{macro}{\gridinterval}
-%   \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}^^A
-%   These contain the grid information.  \cs{gridbase} is a integer number
-%   representing the absolute y coordinate of the upper end of the
-%   grid relative to the same reference point \cs{pdfsavepos}
-%   uses.  \cs{gridinterval} is a integer number representing the distance of
-%   two grid lines.  The unit is `scaled point' (sp) both time.
+% \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}
+% These contain the grid information.  \cs{gridbase} is a integer number
+% representing the absolute y coordinate of the upper end of the
+% grid relative to the same reference point \cs{pdfsavepos}
+% uses.  \cs{gridinterval} is a integer number representing the distance of
+% two grid lines.  The unit is `scaled point' (sp) both time.
 %    \begin{macrocode}
 \newcommand*{\gridbase}{}
 \newcommand*{\gridinterval}{}
@@ -307,20 +299,20 @@ about the files the work consists of.
 % \end{macro}
 %
 % \begin{macro}{\savepos}
-%   \changes{v0.2}{2017/06/05}{macro renamed}^^A
+% \changes{v0.2}{2017/06/05}{macro renamed}
 % \begin{macro}{\SavePos}
-%   \changes{v0.2}{2017/06/05}{new name}^^A
-%   \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}^^A
-%   Save current position on the page to the \texttt{aux}-file.  The argument
-%   is a unique name for the position.  The saved informations are:
-%   \begin{itemize}
-%   \item the name of the position,
-%   \item the arabic page number of the page with the position,
-%   \item the grid base, that was valid for this position,
-%   \item the grid interval, that was valid for this position,
-%   \item the x-coordinate of the absolute position,
-%   \item the y-coordinate of the absolute position.
-%   \end{itemize}
+% \changes{v0.2}{2017/06/05}{new name}
+% \changes{v0.2}{2017/06/05}{prepared for Lua\TeX~0.85}
+% Save current position on the page to the \texttt{aux}-file.  The argument
+% is a unique name for the position.  The saved informations are:
+% \begin{itemize}
+% \item the name of the position,
+% \item the arabic page number of the page with the position,
+% \item the grid base, that was valid for this position,
+% \item the grid interval, that was valid for this position,
+% \item the x-coordinate of the absolute position,
+% \item the y-coordinate of the absolute position.
+% \end{itemize}
 %    \begin{macrocode}
 \newcommand*{\SavePos}[1]{%
   \begingroup
@@ -444,10 +436,10 @@ about the files the work consists of.
 %
 % \begin{macro}{\vskipnextgrid}
 % \begin{macro}{gridcnt}
-%   Move to next grid position.  The counter \texttt{gridcnt} is used to give
-%   every move to position a unique position name.  The names are
-%   `\texttt{vp!\meta{number of the move to position}}'.  You may use this to
-%   get informations e.g. about the last move to position.
+% Move to next grid position.  The counter \texttt{gridcnt} is used to give
+% every move to position a unique position name.  The names are
+% `\texttt{vp!\meta{number of the move to position}}'.  You may use this to
+% get informations e.g. about the last move to position.
 %    \begin{macrocode}
 \newcounter{gridcnt}
 \newcommand*{\vskipnextgrid}{%
@@ -455,11 +447,11 @@ about the files the work consists of.
     \stepcounter{gridcnt}\edef\@tempa{vp!\thegridcnt}%
     \ifvmode
 %    \end{macrocode}
-%   \cs{pdfsavepos} in vertical mode is a problem, because the base line
-%   alignment will be done at least at paragraph breaking.  Because of this,
-%   we have to leave the vertical mode and do it then.  But remark: If you
-%   change the base line skip e.g. changing the font size, the next line would
-%   not be grid aligned!
+% \cs{pdfsavepos} in vertical mode is a problem, because the base line
+% alignment will be done at least at paragraph breaking.  Because of this,
+% we have to leave the vertical mode and do it then.  But remark: If you
+% change the base line skip e.g. changing the font size, the next line would
+% not be grid aligned!
 %    \begin{macrocode}
       \leavevmode\SavePos{\@tempa}%
       \expandafter\ifx\csname pos@\@tempa @vskip\endcsname\relax
@@ -474,30 +466,49 @@ about the files the work consists of.
       \fi
     \else
 %    \end{macrocode}
-%   \cs{pdfsavepos} in horizontal mode is a problem too, because we have to
-%   enter the vertical mode to do vertical skips. Because of this, the remark
-%   is  the same like the vertical mode remark.
+% \cs{pdfsavepos} in horizontal mode is a problem too, because we have to
+% enter the vertical mode to do vertical skips. Because of this, the remark
+% is  the same like the vertical mode remark.
 %    \begin{macrocode}
       \parskip=\z@
       \SavePos{vp!\thegridcnt}%
       \expandafter\ifx\csname pos@\@tempa @vskip\endcsname\relax
       \else
         \expandafter\ifnum \csname pos@\@tempa @vskip\endcsname =\z@\else
-         \PackageInfo{gridset}{%
+          \PackageInfo{gridset}{%
             hmode \string\vskip\csname pos@\@tempa @vskip\endcsname sp%
           }%
-          \vskip -\baselineskip
-          \expandafter\vskip\csname pos@\@tempa @vskip\endcsname sp\relax
+          \vskip \dimexpr -\baselineskip
+                          + \csname pos@\@tempa @vskip\endcsname sp\relax
+%    \end{macrocode}
+% \changes{v0.3}{2020/02/12}{support for twocolumn mode}
+% In twocolumn mode we have to take care that in the second column we reduce
+% the horizontal movement by the width of the first column plus the column
+% separation.
+% Note: This may fail, because the column information may be wrong
+%       outside the output routine. Maybe we should add this information to
+%       \cs{SavePos} or correct the x-pos there.
+%    \begin{macrocode}
+          \leavevmode
           \if@twoside
             \expandafter\ifodd\csname pos@\@tempa @page\endcsname\relax
-              \leavevmode\hskip \dimexpr - 1in - \oddsidemargin - \parindent
+              \hskip \dimexpr -1in - \oddsidemargin - \parindent
+                            \if@twocolumn\if@firstcolumn\else
+                              - \columnwidth - \columnsep
+                            \fi\fi
                               + \csname pos@\@tempa @x\endcsname sp\relax
             \else
-              \leavevmode\hskip \dimexpr - 1in - \evensidemargin - \parindent
+              \hskip \dimexpr -1in - \evensidemargin - \parindent
+                            \if@twocolumn\if@firstcolumn\else
+                              - \columnwidth - \columnsep
+                            \fi\fi
                               + \csname pos@\@tempa @x\endcsname sp\relax
             \fi
           \else
-            \leavevmode\hskip \dimexpr - 1in - \oddsidemargin - \parindent 
+            \hskip \dimexpr -1in - \oddsidemargin - \parindent 
+                            \if@twocolumn\if@firstcolumn\else
+                              - \columnwidth - \columnsep
+                            \fi\fi
                             + \csname pos@\@tempa @x\endcsname sp\relax
           \fi
         \fi
@@ -542,7 +553,7 @@ about the files the work consists of.
 \csname endinput\endcsname
 %</FALSE>
 %</package>
-% \fi ^^A meta-comment
+% \fi
 %
 % \section{Example}
 %
@@ -550,7 +561,7 @@ about the files the work consists of.
 % runs until no new rerun warning occurs.
 % \iffalse meta-comment
 %<*example>
-% \fi ^^A meta-comment
+% \fi
 %    \begin{macrocode}
 \documentclass[a4paper,12pt]{article}
 \usepackage{gridset}
@@ -623,7 +634,7 @@ at hmode}%
 %    \end{macrocode}
 % \iffalse meta-comment
 %</example>
-% \fi ^^A meta-comment
+% \fi
 %
 % \Finale
 %
@@ -631,9 +642,7 @@ at hmode}%
 %
 % end of `gridset.dtx'
 %
-% \iffalse meta-comment
 %%% Local Variables:
 %%% mode: docTeX
 %%% TeX-master: t
 %%% End:
-% \fi ^^A meta-comment
