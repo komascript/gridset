@@ -18,7 +18,7 @@ checkruns = 2
 
 ctanpkg = "gridset"
 
-packtdszip = true
+packtdszip = false
 
 uploadconfig = {
    pkg        = "gridset",
