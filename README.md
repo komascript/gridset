@@ -4,10 +4,14 @@ An experimental LaTeX package for semi-manual grid (a.k.a. in-register) setting
 
 ------------------------------------------------------------------------------
 
-LaTeX package `gridset`  
-Copyright (c) 2008—2020 Markus Kohm  
-Release: 2020-02-12 v0.3  
-License: LPPL 1.3c (see LICENSE.md)  
+LaTeX package `gridset`
+
+Copyright (c) 2008—2020 Markus Kohm
+
+Release: 2020-02-12 v0.3
+
+License: LPPL 1.3c (see LICENSE.md)
+
 CTAN Location: https://ctan.org/pkg/gridset
 
 ------------------------------------------------------------------------------
