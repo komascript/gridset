@@ -54,7 +54,7 @@ cd gridset
 Last, but not least use `l3build` to install it locally:
 
 ```bash
-l3build install
+l3build install --full
 ```
 
 ------------------------------------------------------------------------------
@@ -79,3 +79,11 @@ Now, you can either install it in the proper directory or copy `gridset.sty`
 to your document directory.
 
 ------------------------------------------------------------------------------
+
+# How to Say Thank You for my Work
+
+Hey, I'm doing this as a hobby. So no need to say thank you. But I'm a vain
+fop, so I'm certainly up for a quick thank you by email. On komascript.de you
+can find an [explanation of my wishes](https://komascript.de/wunschliste) if
+you want to give more. If you don't understand German, just click to links at
+that page.
