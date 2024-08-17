@@ -29,7 +29,7 @@ uploadconfig = {
    topic      = "typeset-grid",
    ctanPath   = "/macros/latex/contrib/gridset",
    bugtracker = "https://github.com/komascript/gridset/issues",
-   home       = "https://komascript.de/gridset",
+   home       = "https://github.com/komascript/gridset",
    repository = "https://github.com/komascript/gridset.git",
 } 
 
