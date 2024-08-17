@@ -6,7 +6,7 @@ An experimental LaTeX package for semi-manual grid (a.k.a. in-register) setting
 
 LaTeX package `gridset`
 
-Copyright (c) 2008—2020 Markus Kohm
+Copyright (c) 2008—2024 Markus Kohm
 
 Release: 2024-08-17 v0.4
 
