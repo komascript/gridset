@@ -1,6 +1,6 @@
 #!/usr/bin/env texlua
 
-release_info = "2020-02-12 v0.3"
+release_info = "2024-08-17 v0.4"
 
 -- Build script for gridset
 
@@ -47,8 +47,8 @@ function update_tag (file,content,tagname,tagdate)
 			  "[" .. tagdate .. " v" .. tagname )
    elseif string.match (file, "%.md$") then
       return string.gsub (content,
-			  "\nRelease: %d%d%d%d%-%d%d%-%d%d v%d+%.%d+  \n",
-			  "\nRelease: " .. tagdate .. " v" .. tagname .. "  \n")
+			  "\nRelease: %d%d%d%d%-%d%d%-%d%d v%d+%.%d+\n",
+			  "\nRelease: " .. tagdate .. " v" .. tagname .. "\n")
    elseif string.match (file, "%.lua$") then
       return string.gsub (content,
 			  '\nrelease_info = "%d%d%d%d%-%d%d%-%d%d v%d+%.%d+"\n',

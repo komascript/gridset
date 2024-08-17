@@ -8,7 +8,7 @@ LaTeX package `gridset`
 
 Copyright (c) 2008—2020 Markus Kohm
 
-Release: 2020-02-12 v0.3
+Release: 2024-08-17 v0.4
 
 License: LPPL 1.3c (see LICENSE.md)
 
