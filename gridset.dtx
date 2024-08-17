@@ -2,7 +2,7 @@
 %
 % gridset.dtx
 %
-%% Copyright (C) 2008-2020 Markus Kohm
+%% Copyright (C) 2008-2024 Markus Kohm
 %%
 %% This work may be distributed and/or modified under the
 %% conditions of the LaTeX Project Public License, either version 1.3c
@@ -25,37 +25,17 @@
 %%
 %
 %<*dtx>
-\def\FmtName{LaTeX2e}
-\ifx\FmtName\fmtname
-  % Give me the package or the documentation
-  \ifnum \catcode`\@=12\relax
-    % Give me the documentation
-    \ProvidesFile{gridset.dtx}
+\ifx\ProvidesFile\undfined\def\ProvidesFile#1[#2]{}\fi
+\ProvidesFile{gridset.dtx}
 %</dtx>
 %<*dtx|package|example>
 %<package>\ProvidesPackage{gridset}
 %<example>\ProvidesFile{gridsetexample.tex}
-                 [2020-02-12 v0.3 grid - a.k.a. in-register - setting]
+                 [2024-08-17 v0.4 grid - a.k.a. in-register - setting]
 %</dtx|package|example>
 %<*dtx>
-    \documentclass{ltxdoc}
-    \begin{document}
-    \RecordChanges
-    \GetFileInfo{gridset.dtx}
-    \DocInput{gridset.dtx}
-%</dtx>
-%<*dtx>
-    \expandafter\expandafter\expandafter\enddocument
-  \fi
-\else
-  % Make the package
-  \def\batchfile{gridset.dtx}
-  \let\batchendinput\endinput
-%</dtx>
-%<*ins>
-%<ins>\def\batchfile{gridset.ins}
+\ifx\documentclass\undefined
   \input docstrip.tex
-
   \keepsilent
   \askforoverwritefalse
   \usedir{tex/latex/gridset}
@@ -98,12 +78,16 @@ about the files the work consists of.
     \Msg{*}
     \Msg{*********************************************************************}
   }
-
-%</ins>
-%<*dtx>
+\else
+  \let\endbatchfile\relax
 \fi
-\csname fi\endcsname
-\csname batchendinput\endcsname
+\endbatchfile
+\documentclass{ltxdoc}
+\begin{document}
+\RecordChanges
+\GetFileInfo{gridset.dtx}
+\DocInput{gridset.dtx}
+\end{document}
 %</dtx>
 % \fi ^^A meta-comment
 %
@@ -313,6 +297,12 @@ about the files the work consists of.
 % \item the x-coordinate of the absolute position,
 % \item the y-coordinate of the absolute position.
 % \end{itemize}
+% \begin{description}
+%   \item[Todo:] Currently we use our own command \cs{newpos} to store the
+%   position information in the \texttt{aux}-file. But with the extended
+%   reference mechanism of \LaTeX{} since 2023-11-01 this should be replaced
+%   by the new properties.
+% \end{description}
 %    \begin{macrocode}
 \newcommand*{\SavePos}[1]{%
   \begingroup
@@ -411,8 +401,17 @@ about the files the work consists of.
       that won't be reported!}%
   \fi
 }
+%    \end{macrocode}
+%   \changes{0.4}{2024/08/17}{fix deactivation of
+%     \cs{grid@unique@test}
+%     (\href{https://github.com/komascript/gridset/issues/1}{Issue \#1})}
+%   The test should be done only, when reading the \texttt{aux} file at
+%   |\begin{document}|, but not later (e.g. at |\end{document}|). So we
+%   deactivate the test after reading the \texttt{aux} file in
+%   |\begin{document}|.
+%    \begin{macrocode}
 \AtBeginDocument{%
-  \global\let\grid@unique@test\@gobble
+  \global\let\grid@unique@test\@gobbletwo
 }
 %    \end{macrocode}
 % \end{macro}
