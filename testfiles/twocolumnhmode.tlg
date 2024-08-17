@@ -15,6 +15,7 @@ Completed box being shipped out [1]
 ..\vbox(12.0+0.0)x469.0, glue set 12.0fil
 ...\glue 0.0 plus 1.0fil
 ...\hbox(0.0+0.0)x469.0
+....\hbox(0.0+0.0)x469.0
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x469.0
@@ -1056,7 +1057,7 @@ Completed box being shipped out [1]
 ......\glue(\baselineskip) 2.55556
 ......\hbox(6.94444+1.94444)x229.5, glue set 0.12529
 .......\pdfsavepos
-.......\write1{\protect \newpos {vp!1}{1}{46515936}{786432}{\number \gridset@lastxpos \ETC.}
+.......\write1{\protect \newpos {vp!1}{1}{46515936}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\OT1/cmr/m/n/10 M
 .......\OT1/cmr/m/n/10 o
 .......\OT1/cmr/m/n/10 r
@@ -3070,6 +3071,7 @@ Completed box being shipped out [1]
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue(\parskip) 0.0 plus 1.0
+......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 3.11111
 ......\hbox(6.94444+1.94444)x229.5, glue set 0.0693
 .......\hbox(0.0+0.0)x10.00002
@@ -4104,11 +4106,12 @@ Completed box being shipped out [1]
 ......\glue(\baselineskip) 9.5
 ......\hbox(0.0+0.0)x229.5, glue set 229.5fil
 .......\pdfsavepos
-.......\write1{\protect \newpos {vp!2}{1}{46515936}{786432}{\number \gridset@lastxpos \ETC.}
+.......\write1{\protect \newpos {vp!2}{1}{46515936}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\penalty 10000
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue -6.0
+......\glue(\parskip) 0.0
 ......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 5.05556
 ......\hbox(6.94444+1.94444)x229.5, glue set - 0.46066
@@ -5130,8 +5133,9 @@ Completed box being shipped out [1]
 ......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 ..\glue(\baselineskip) 23.55556
-..\hbox(6.44444+0.0)x469.0, glue set 232.0fil
-...\glue 0.0 plus 1.0fil
-...\OT1/cmr/m/n/10 1
-...\glue 0.0 plus 1.0fil
+..\hbox(6.44444+0.0)x469.0
+...\hbox(6.44444+0.0)x469.0, glue set 232.0fil
+....\glue 0.0 plus 1.0fil
+....\OT1/cmr/m/n/10 1
+....\glue 0.0 plus 1.0fil
 ============================================================

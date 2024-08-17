@@ -15,6 +15,7 @@ Completed box being shipped out [1]
 ..\vbox(12.0+0.0)x469.0, glue set 12.0fil
 ...\glue 0.0 plus 1.0fil
 ...\hbox(0.0+0.0)x469.0
+....\hbox(0.0+0.0)x469.0
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x469.0
@@ -334,7 +335,7 @@ Completed box being shipped out [1]
 ......\glue(\baselineskip) 2.56
 ......\hbox(6.94+1.93999)x229.5, glue set 0.1278
 .......\pdfsavepos
-.......\write1{\protect \newpos {vp!1}{1}{43234099}{786432}{\number \gridset@lastxpos \ETC.}
+.......\write1{\protect \newpos {vp!1}{1}{43234099}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\TU/lmr/m/n/10 More
 .......\glue 3.33 plus 1.665 minus 1.11
 .......\TU/lmr/m/n/10 text.Lorem
@@ -887,6 +888,7 @@ Completed box being shipped out [1]
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue(\parskip) 0.0 plus 1.0
+......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 3.12001
 ......\hbox(6.94+1.93999)x229.5, glue set 0.07207
 .......\hbox(0.0+0.0)x10.0
@@ -1199,11 +1201,12 @@ Completed box being shipped out [1]
 ......\glue(\baselineskip) 9.5
 ......\hbox(0.0+0.0)x229.5, glue set 229.5fil
 .......\pdfsavepos
-.......\write1{\protect \newpos {vp!2}{1}{43234099}{786432}{\number \gridset@lastxpos \ETC.}
+.......\write1{\protect \newpos {vp!2}{1}{43234099}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\penalty 10000
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue -6.0
+......\glue(\parskip) 0.0
 ......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 5.06
 ......\hbox(6.94+1.93999)x229.5, glue set - 0.45682
@@ -1492,8 +1495,9 @@ Completed box being shipped out [1]
 ......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 ..\glue(\baselineskip) 23.34
-..\hbox(6.66+0.0)x469.0, glue set 232.0fil
-...\glue 0.0 plus 1.0fil
-...\TU/lmr/m/n/10 1
-...\glue 0.0 plus 1.0fil
+..\hbox(6.66+0.0)x469.0
+...\hbox(6.66+0.0)x469.0, glue set 232.0fil
+....\glue 0.0 plus 1.0fil
+....\TU/lmr/m/n/10 1
+....\glue 0.0 plus 1.0fil
 ============================================================

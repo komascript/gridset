@@ -15,6 +15,7 @@ Completed box being shipped out [1]
 ..\vbox(12.0+0.0)x469.0, glue set 12.0fil, direction TLT
 ...\glue 0.0 plus 1.0fil
 ...\hbox(0.0+0.0)x469.0, direction TLT
+....\hbox(0.0+0.0)x469.0, direction TLT
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x469.0, direction TLT
@@ -1064,8 +1065,7 @@ Completed box being shipped out [1]
 ........\localleftbox=null
 ........\localrightbox=null
 .......\savepos
-.......\write1{\protect \newpos {vp!1}{1}{46515936}{786432}{\number \gridset@la
-stxpos \ETC.}
+.......\write1{\protect \newpos {vp!1}{1}{46515936}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\TU/lmr/m/n/10 M
 .......\TU/lmr/m/n/10 o
 .......\TU/lmr/m/n/10 r
@@ -3073,6 +3073,7 @@ stxpos \ETC.}
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue(\parskip) 0.0 plus 1.0
+......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 3.12
 ......\hbox(6.94+1.94)x229.5, glue set 0.07207, direction TLT
 .......\localpar
@@ -4115,12 +4116,12 @@ stxpos \ETC.}
 ........\localleftbox=null
 ........\localrightbox=null
 .......\savepos
-.......\write1{\protect \newpos {vp!2}{1}{46515936}{786432}{\number \gridset@la
-stxpos \ETC.}
+.......\write1{\protect \newpos {vp!2}{1}{46515936}{786432}{\number \gridset@lastxpos }{\number \gridset@lastypos }}
 .......\penalty 10000
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
 ......\glue -6.0
+......\glue(\parskip) 0.0
 ......\glue(\parskip) 0.0
 ......\glue(\baselineskip) 5.06
 ......\hbox(6.94+1.94)x229.5, glue set - 0.45682, direction TLT
@@ -5144,8 +5145,9 @@ stxpos \ETC.}
 ......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 ..\glue(\baselineskip) 23.34
-..\hbox(6.66+0.0)x469.0, glue set 232.0fil, direction TLT
-...\glue 0.0 plus 1.0fil
-...\TU/lmr/m/n/10 1
-...\glue 0.0 plus 1.0fil
+..\hbox(6.66+0.0)x469.0, direction TLT
+...\hbox(6.66+0.0)x469.0, glue set 232.0fil, direction TLT
+....\glue 0.0 plus 1.0fil
+....\TU/lmr/m/n/10 1
+....\glue 0.0 plus 1.0fil
 ============================================================
